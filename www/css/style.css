@@ -1,0 +1,34 @@
+/**/
+
+*{
+  text-align: center;
+}
+
+#cabecalho{
+  background-color: #F6E771;
+  border-bottom: solid #CCC 1px;
+}
+
+h3{
+  margin: 20px;
+}
+
+p, #verificar{
+  margin-top: 20px;
+}
+
+input{
+  text-align: left;
+}
+
+.imagem{
+  height: 100%;
+  width: 100%;
+  padding-bottom: 50px;
+}
+
+#isoceles{
+  height: 75%;
+  width: 75%;
+  padding-bottom: 50px;
+}
